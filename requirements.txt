@@ -19,7 +19,7 @@ jinja2-time==0.2.0
 loguru==0.5.3
 MarkupSafe==2.0.1
 multidict==5.1.0
-nb-cli==0.4.3
+nb-cli==0.5.3
 nonebot-adapter-cqhttp==2.0.0a13
 nonebot2==2.0.0a13.post1
 Pillow==9.1.1
